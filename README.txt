@@ -1,37 +1,39 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# ProductLab Portfolio Demo
 
+Welcome to the ProductLab Portfolio Demo repository!
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
+This repository provides a structured template and resources to help ProductLab participants create their own professional online portfolios.
 
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Key Features:
 
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
+### Organized Structure:
+- **Assets folder**: Contains CSS and JavaScript files.
+- **Images folder**: Stores portfolio images.
+- **index.html**: Basic demo HTML file.
+- **index-demo.html**: Example with advanced formatting.
 
-(* = my other side project -- carrd.co)
-(** = not included)
+### Placeholders for Projects:
+- Integrate links to your personal projects.
 
-AJ
-aj@lkn.io | @ajlkn
+## Getting Started:
+1. Fork this repository to create your own copy.
+2. Customize the content:
+   - Replace placeholder text and images.
+   - Highlight your skills and projects.
+3. Explore the demo files:
+   - Use `index.html` as a starting point.
+   - Refer to `index-demo.html` for advanced formatting.
+4. Experiment and personalize: Adjust structure and styles to your liking.
 
+## Additional Tips:
+- Clearly articulate your skills.
+- Showcase projects effectively: Provide concise descriptions and highlight key features.
+- Maintain a clean and organized layout.
+- Proofread carefully.
+- Update regularly with new projects and accomplishments.
 
-Credits:
+This demo is a foundation. Make it your own and create a portfolio that reflects your unique talents and potential!
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Happy portfolio building!
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+\- ProductLab Team
