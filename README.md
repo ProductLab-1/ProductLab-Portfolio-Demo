@@ -23,7 +23,9 @@ This repository provides a structured template and resources to help ProductLab 
 3. Explore the demo files:
    - Use `index.html` as a starting point.
    - Refer to `index-demo.html` for advanced formatting.
+   - You can also find other templates to base your portfolio off [here](https://www.geeksforgeeks.org/how-to-build-portfolio-website-and-host-it-on-github-pages/)
 4. Experiment and personalize: Adjust structure and styles to your liking.
+5. Once you're ready [set up github pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to show off your portfolio to the world!
 
 ## Additional Tips:
 - Clearly articulate your skills.
